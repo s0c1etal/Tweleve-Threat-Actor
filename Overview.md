@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The hacktivist group known as "Twelve" emerged in spring 2024, initially focusing on doxxing individuals through a Telegram channel. After a period of inactivity due to Telegram's suspension of their channel, recent cyberattack investigations in June 2024 indicate the group remains operational, utilizing tactics and infrastructure consistent with their previous activities.
+The hacktivist group known as "Twelve" emerged in spring 2024, initially focusing on Doxxing individuals through a Telegram channel. After a period of inactivity due to Telegram's suspension of their channel, recent cyberattack investigations in June 2024 indicate that the group remains operational, utilizing tactics and infrastructure consistent with their previous activities.
 
 ## Timeline
 
