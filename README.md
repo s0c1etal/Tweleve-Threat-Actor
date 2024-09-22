@@ -12,4 +12,4 @@ This list is provided for informational purposes only. The presence of a file ha
 
 ## License
 
-[Include your chosen license information here]
+MIT License
